@@ -1,3 +1,3 @@
 # eHealthy
 
-Repository for combining github.com/amyrman/eHealthy-client and github.com/amyrman/eHealthy-server into one
+Repository for combining [client](https://github.com/amyrman/eHealthy-client) and [server](https://github.com/amyrman/eHealthy-server) into one repo for convenience
